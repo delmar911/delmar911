@@ -1,8 +1,7 @@
 # ¡Hola, soy Maria Del Mar (Mar)! 👋
 
-<img src="https://github.com/delmar911.png" width="100" height="100" alt="Maria Del Mar">
+<img src="[https://github.com/delmar911.png](https://github.com/user-attachments/assets/95b5e0c6-0950-4d4b-b831-49c47f51f5b7)" width="100" height="100" alt="Maria Del Mar">
 
-![code](https://github.com/user-attachments/assets/95b5e0c6-0950-4d4b-b831-49c47f51f5b7)
 
 ## Sobre mí
 

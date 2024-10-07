@@ -1,5 +1,6 @@
 # ¡Hola, soy Maria Del Mar (Mar)! 👋
 
+![code](https://github.com/user-attachments/assets/95b5e0c6-0950-4d4b-b831-49c47f51f5b7)
 
 ## Sobre mí
 

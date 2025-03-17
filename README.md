@@ -1,4 +1,4 @@
-# ¡Hola, soy Maria Del Mar (Mar)! 👋
+# ¡Hola, soy Maria Del Mar "Mar"! 👋
 
 <img src="https://github.com/user-attachments/assets/95b5e0c6-0950-4d4b-b831-49c47f51f5b7" width="200" height="200" alt="">
 

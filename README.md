@@ -1,33 +1,40 @@
-# ¡Hola, soy Maria Del Mar "Mar"! 👋
+# Maria Del Mar Artunduaga
 
-<img src="https://github.com/user-attachments/assets/95b5e0c6-0950-4d4b-b831-49c47f51f5b7" width="200" height="200" alt="">
+<img src="https://github.com/user-attachments/assets/95b5e0c6-0950-4d4b-b831-49c47f51f5b7" width="180" alt="Maria Del Mar Artunduaga">
 
+Desarrolladora Frontend especializada en Web Components con JavaScript y Lit Element, actualmente en un proyecto para BBVA Colombia. Cuento con base en desarrollo Full Stack y curso Ingeniería de Software en el Politécnico Grancolombiano.
 
-## Sobre mí
+---
 
-Soy Tecnóloga en Análisis y Desarrollo de Software, con una profunda pasión por la tecnología y el desarrollo de software. Mis habilidades abarcan tanto el liderazgo como el trabajo en equipo. Tengo experiencia en el consumo de APIs utilizando Django Rest Framework y en el uso de diversas tecnologías y lenguajes de programación, incluyendo JavaScript, MySQL, HTML, CSS, Boostrap Java, Python, Postman, Git, IA, Linux y GitHub. Estoy comprometida con el crecimiento constante y la aplicación de soluciones innovadoras en el ámbito del desarrollo de software.
+## Experiencia actual
 
-## 🏆 Proyectos destacados
+- Web Components con JavaScript y Lit Element (arquitectura Cells)
+- Integración de servicios REST en entornos bancarios de producción
+- Proyecto BBVA Colombia — segmento Empresas
 
-[TuVooz](http://tuvooz.com/TuVooz/)
+---
 
-## 🌱 Actualmente estoy aprendiendo
+## Tecnologías
 
-- React y redux
+**Frontend**
+JavaScript · Lit Element · Web Components · React · HTML5 · CSS3 · Tailwind CSS
 
-## 📫 Cómo contactarme
+**Backend**
+Django Rest Framework · Spring Boot · Java · Python · PHP
 
-- Email: mariadelmar.artunduaga911@gmail.com
-- LinkedIn: [Maria Del Mar Artunduaga](https://www.linkedin.com/in/mariadelmarartunduaga/)
+**Herramientas**
+Git · Bitbucket · GitHub · Jira · Postman · Linux
 
-## 🛠 Habilidades y Herramientas
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+## Proyectos
 
-⭐️ De [delmar911](https://github.com/delmar911)
+- [TuVooz](http://tuvooz.com/TuVooz/) — Plataforma de texto a voz para personas sordas (Python, Django, IA)
+- [Shop Online MAC](https://shopmac.netlify.app/) — E-commerce desarrollado con React y Tailwind CSS
+- [Portafolio Web](https://mariadelmar.dev)
+
+---
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/mariadelmarartunduaga/) · mariadelmar.artunduaga911@gmail.com
